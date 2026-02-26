@@ -4,8 +4,7 @@
 
 ### General
 
-- [Material de la cátedra](https://placeholder.com)
-- [Cartelera Virtual (Gestión Docente)](https://gestiondocente.info.unlp.edu.ar/cartelera/#form[materia]=195&)
+- [Material de la cátedra](https://catedras.linti.unlp.edu.ar/)
 
 ## Práctica
 
