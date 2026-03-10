@@ -4,11 +4,15 @@
 
 ### General
 
-- [Material de la cátedra](https://catedras.linti.unlp.edu.ar/)
+- [Material de la cátedra](https://catedras.linti.unlp.edu.ar/course/view.php?id=1342)
 
 ## Práctica
 
+- [Clases prácticas grabadas](https://catedras.linti.unlp.edu.ar/mod/bigbluebuttonbn/view.php?id=44884)
+
 ## Teoría
+
+- [Clases teóricas grabadas](https://catedras.linti.unlp.edu.ar/mod/bigbluebuttonbn/view.php?id=44883)
 
 ## Cómo se aprueba la cursada?
 
