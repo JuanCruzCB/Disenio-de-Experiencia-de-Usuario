@@ -9,6 +9,7 @@
 ## Práctica
 
 - [Clases prácticas grabadas](https://catedras.linti.unlp.edu.ar/mod/bigbluebuttonbn/view.php?id=44884)
+- [Heurísticas de Nielsen](https://www.nngroup.com/articles/ten-usability-heuristics/)
 
 ## Teoría
 
