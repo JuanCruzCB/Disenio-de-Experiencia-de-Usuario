@@ -17,4 +17,10 @@
 
 ## Cómo se aprueba la cursada?
 
+- Se deben entregar todos los trabajos prácticos, que son grupales (de 2 a 3 integrantes).
+- Se debe realizar una exposición oral de uno de los trabajos prácticos a convenir.
+- Se debe aprobar un parcial teórico al final de la cursada.
+
 ## Cómo se aprueba la promoción?
+
+- Se debe realizar un Trabajo Final e informe de implementación de los trabajos prácticos durante la cursada.
