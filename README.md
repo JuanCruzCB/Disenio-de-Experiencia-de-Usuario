@@ -10,6 +10,7 @@
 
 - [Clases prácticas grabadas](https://catedras.linti.unlp.edu.ar/mod/bigbluebuttonbn/view.php?id=44884)
 - [Heurísticas de Nielsen](https://www.nngroup.com/articles/ten-usability-heuristics/)
+- [Documento TP1](https://docs.google.com/document/d/1tY-UvEfq4wJAJ4UJyYdcIP7whwQcxf76BFDTvCeeZ-A/edit?usp=sharing)
 
 ## Teoría
 
