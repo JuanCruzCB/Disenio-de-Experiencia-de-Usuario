@@ -5,12 +5,15 @@
 ### General
 
 - [Material de la cátedra](https://catedras.linti.unlp.edu.ar/course/view.php?id=1342)
+- [Foro de aviso](https://catedras.linti.unlp.edu.ar/mod/forum/view.php?id=44879)
 
 ## Práctica
 
 - [Clases prácticas grabadas](https://catedras.linti.unlp.edu.ar/mod/bigbluebuttonbn/view.php?id=44884)
+- [Foro de consultas prácticas](https://catedras.linti.unlp.edu.ar/mod/forum/view.php?id=44880)
 - [Heurísticas de Nielsen](https://www.nngroup.com/articles/ten-usability-heuristics/)
 - [Documento TP1](https://docs.google.com/document/d/1tY-UvEfq4wJAJ4UJyYdcIP7whwQcxf76BFDTvCeeZ-A/edit?usp=sharing)
+- Mi número de grupo es el **9**.
 
 ## Teoría
 
