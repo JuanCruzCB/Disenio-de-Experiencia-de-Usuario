@@ -13,6 +13,7 @@
 - [Foro de consultas prácticas](https://catedras.linti.unlp.edu.ar/mod/forum/view.php?id=44880)
 - [Heurísticas de Nielsen](https://www.nngroup.com/articles/ten-usability-heuristics/)
 - [Documento TP1](https://docs.google.com/document/d/1tY-UvEfq4wJAJ4UJyYdcIP7whwQcxf76BFDTvCeeZ-A/edit?usp=sharing)
+- [Documento TP2](https://docs.google.com/document/d/15cD9jxTgHg28v8CprM_G3NuM-JaBM477npcbRgvmhtk/edit?usp=sharing)
 - Mi número de grupo es el **9**.
 
 ## Teoría
