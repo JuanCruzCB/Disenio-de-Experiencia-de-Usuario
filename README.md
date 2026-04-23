@@ -26,6 +26,7 @@
 - Dicha aplicación puede ser desarrollada con cualquier tecnología que se desee.
 - La materia provee varias temáticas para el TP a elección de cada grupo.
 - Los TPs 2, 3, 4 se pueden usar como parte de la implementación del TP final.
+- [Video de propuesta de gliptodontes](https://drive.google.com/file/d/14ZKGdlmIG-jEzi0C0W01qE028idAgw7f/view)
 - Ejemplos de años anteriores:
   - https://dome0luis0valentin-github-io-27he.vercel.app/
   - https://wholesome-achievement-production.up.railway.app/
