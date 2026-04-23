@@ -20,6 +20,16 @@
 
 - [Clases teóricas grabadas](https://catedras.linti.unlp.edu.ar/mod/bigbluebuttonbn/view.php?id=44883)
 
+## Trabajo Final
+
+- El TP incluye tanto un informe detallado como una aplicación deployada públicamente.
+- Dicha aplicación puede ser desarrollada con cualquier tecnología que se desee.
+- La materia provee varias temáticas para el TP a elección de cada grupo.
+- Los TPs 2, 3, 4 se pueden usar como parte de la implementación del TP final.
+- Ejemplos de años anteriores:
+  - https://dome0luis0valentin-github-io-27he.vercel.app/
+  - https://wholesome-achievement-production.up.railway.app/
+
 ## Cómo se aprueba la cursada?
 
 - Se deben entregar todos los trabajos prácticos, que son grupales (de 2 a 3 integrantes).
