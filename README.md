@@ -6,6 +6,9 @@
 
 - [Material de la cátedra](https://catedras.linti.unlp.edu.ar/course/view.php?id=1342)
 - [Foro de aviso](https://catedras.linti.unlp.edu.ar/mod/forum/view.php?id=44879)
+- [Web Accesibility Initiative (WAI) Standards/Guidelines](https://www.w3.org/WAI/standards-guidelines/)
+- [Web Accessibility Initiative (WAI) Test & Evaluate](https://www.w3.org/WAI/test-evaluate/)
+- [Web Accessibility Initiative (WAI) Design & Develop](https://www.w3.org/WAI/design-develop/)
 
 ## Práctica
 
