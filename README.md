@@ -35,6 +35,7 @@
 - Ejemplos de años anteriores:
   - https://dome0luis0valentin-github-io-27he.vercel.app/
   - https://wholesome-achievement-production.up.railway.app/
+- [Repo TP Final 2026 Grupo 9](https://github.com/iehurtado/trabajo-final-deu/)
 
 ## Cómo se aprueba la cursada?
 
